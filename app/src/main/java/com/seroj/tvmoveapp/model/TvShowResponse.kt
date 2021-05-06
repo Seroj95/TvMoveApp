@@ -2,4 +2,4 @@ package com.seroj.tvmoveapp.model
 
 import java.util.ArrayList
 
-class TvShowResponse:ArrayList <TvShowResponseItem>()
+class TvShowResponse:ArrayList <TvShowItem>()
